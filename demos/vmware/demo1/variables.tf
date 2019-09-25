@@ -5,7 +5,7 @@ variable "vsphere_user" {
 
 variable "vsphere_password" {
   type    = "string"
-  default = "Rubrik123!"
+  default = "password"
 }
 
 variable "vsphere_server" {
