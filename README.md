@@ -1,2 +1,2 @@
 # terraform
-terraform samples, dems, etc.
+terraform samples, demos, etc.
